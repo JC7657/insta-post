@@ -1,0 +1,66 @@
+body {
+    background-color: #cecece;
+}
+body * {
+    font-family: 'Biryani', sans-serif;
+}
+
+.row {
+    width:100%
+ }
+ 
+.container-b {
+    text-align: center;
+    margin: auto;
+    background-color: white;
+    width: 500px;
+    margin-bottom:30px;
+    margin-top: 30px;
+    
+ }
+.post-data {
+    
+ }
+.post-title {
+    float:left;
+    margin-left: 10px;
+    margin-top: 17px;
+    text-align: left;
+ }
+.icon {
+    float: left;
+    margin-top: 23px!important;
+    margin-left: 20px;
+}
+.post-date {
+    float: right;
+    margin-right: 20px;
+    margin-top:23px;
+ }
+.img-view-b {
+    width: 500px; 
+ }
+.like-counter {
+    margin-top: 15px;
+    margin-left: 20px;
+    float: left;
+    font-weight: 600;
+ }
+.post-descr {
+    text-align: left;
+    margin-top:25px!important;
+    width: 460px;
+    margin:auto;
+    padding-bottom: 20px;
+ }
+.post-buttons {
+    font-size: 30px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 10px;
+ }
+
+#bookmark {
+    float: right;
+    margin-right: 20px;
+}
